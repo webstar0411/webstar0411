@@ -1,7 +1,7 @@
 # Senior Front-end Developer
 Hello, Everyone. Thank you for having a look at my profile
 
-I am an enthusiastic JavaScript developer who loves solving difficult technical issues. TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
+I am an enthusiastic full-stack developer who loves solving difficult technical issues. TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
 My objective is simply to be the best web developer I can be and to contribute to the technology industry all that I know and can do. 
 I am dedicated to perfecting my craft by learning from seasoned developers. 
 
